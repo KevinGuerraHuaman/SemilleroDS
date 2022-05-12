@@ -1,6 +1,6 @@
 #include <WiFi.h>
-const char* ssid = "HUAWEI - ARES"; 
-const char* pass = "Mjlop#184Fm"; 
+const char* ssid = "****"; 
+const char* pass = "****"; 
 WiFiClient client;
 
 
